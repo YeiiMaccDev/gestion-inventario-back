@@ -5,7 +5,7 @@ import cx_Oracle
 app = Flask(__name__)
 CORS(app)
 
-# Detalles de conexión a la base de datos (reemplaza con tus credenciales)
+# Detalles de conexión a la base de datos
 db_user = "ADMIN_INV"
 db_password = "LZYM123"
 db_host = "localhost"
